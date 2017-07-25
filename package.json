@@ -1,0 +1,11 @@
+{
+  "name": "fifi",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whisperlab/fifi.git"
+  },
+  "author": "Alexey <L@whisperlab.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
